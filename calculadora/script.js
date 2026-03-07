@@ -40,7 +40,6 @@ function finalizarOperacao(){
     let num2 = parseInt(valor2.join(""));
 
     let resultado;
-    console.log("chegou");
     
     switch(operacao){
         case "+":
@@ -74,3 +73,4 @@ function excluirTudo(){
     segundoNumero = false;
 
 }
+
